@@ -11,7 +11,7 @@ public class MemberApp {
 
     public static void main(String[] args) {
 
-        /* AppConfig 를 통해 memberservice 인스턴스 생성 -> client 코드에서 직접 건들지 않아도 됨 */
+        /* AppConfig 를 통해 memberService 인스턴스 생성 -> client 코드에서 직접 건들지 않아도 됨 */
 //        AppConfig appConfig = new AppConfig();
 //        MemberService memberService = appConfig.memberService();
 
